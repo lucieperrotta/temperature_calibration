@@ -1,5 +1,8 @@
-temperature_final
+# Code for the paper "Practical calibration of the temperature parameter in Gibbs posteriors"
 
+Paper url: <url>https://arxiv.org/abs/2004.10522</url>
+
+## How to use
 - Run linreg.py for the linear regression iwht known variance.
 - Run linreg2.py for the linear regression iwht unknown variance.
 - Run logreg.py for the logistic regression.
